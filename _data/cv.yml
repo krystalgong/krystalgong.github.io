@@ -7,7 +7,9 @@ contact:
 education:
   - institution: "University of Maryland"
     degree: "Ph.D. in Information Studies"
-    advisors: ["Julia Mendelsohn", "Wei Ai"]
+    advisors:
+      - "Julia Mendelsohn"
+      - "Wei Ai"
     start: "Aug 2025"
     end: "Present"
   - institution: "University of Pennsylvania"
@@ -28,7 +30,9 @@ education:
     gpa: "3.81/4.00"
     start: "Aug 2018"
     end: "May 2022"
-    honors: ["Magna Cum Laude (2022)", "Dean’s List (2019–2022)"]
+    honors:
+      - "Magna Cum Laude (2022)"
+      - "Dean’s List (2019–2022)"
 
 awards:
   - "Dean’s Fellowship, University of Maryland (FY26)"
@@ -69,22 +73,54 @@ experience:
 
 projects:
   - name: "Machine QA on Chinese Judicial RC"
-    tags: ["MRC"]
+    tags:
+      - "MRC"
   - name: "Colorize Images with Deep Learning"
-    tags: ["ResNet","GAN","VAE"]
+    tags:
+      - "ResNet"
+      - "GAN"
+      - "VAE"
   - name: "Customer Lifecycle (NYU × HSBC)"
-    tags: ["Segmentation","Churn"]
+    tags:
+      - "Segmentation"
+      - "Churn"
   - name: "Max Car Speed in Rain"
-    tags: ["Safety","Modeling"]
+    tags:
+      - "Safety"
+      - "Modeling"
 
 teaching:
   - role: "Coding Instructor"
     org: "Fife Academy Coding Club, UPenn"
     start: "Oct 2022"
     end: "May 2023"
-    bullets: ["100+ K–12 students; lectures, labs, feedback"]
+    bullets:
+      - "100+ K–12 students; lectures, labs, feedback"
 
 skills:
-  programming: ["Python","R","SQL","Java"]
-  libraries: ["NumPy","Pandas","SciPy","scikit-learn","PySpark","Seaborn","Matplotlib","PyTorch","TensorFlow"]
-  tools: ["AWS (RDS/SageMaker/S3/EMR)","MySQL","MongoDB","Tableau","Power BI","Git","Linux","Stata","MATLAB","ETL"]
+  programming:
+    - "Python"
+    - "R"
+    - "SQL"
+    - "Java"
+  libraries:
+    - "NumPy"
+    - "Pandas"
+    - "SciPy"
+    - "scikit-learn"
+    - "PySpark"
+    - "Seaborn"
+    - "Matplotlib"
+    - "PyTorch"
+    - "TensorFlow"
+  tools:
+    - "AWS (RDS/SageMaker/S3/EMR)"
+    - "MySQL"
+    - "MongoDB"
+    - "Tableau"
+    - "Power BI"
+    - "Git"
+    - "Linux"
+    - "Stata"
+    - "MATLAB"
+    - "ETL"

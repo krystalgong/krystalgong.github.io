@@ -2,9 +2,17 @@
   "basics": {
     "name": "Liancheng Gong (Krystal)",
     "email": "lianchenggong0224@gmail.com",
-    "location": { "city": "College Park", "region": "MD", "countryCode": "US" },
+    "location": {
+      "city": "College Park",
+      "region": "MD",
+      "countryCode": "US"
+    },
     "profiles": [
-      { "network": "Email (alt)", "username": "gonglc@umd.edu", "url": "mailto:gonglc@umd.edu" }
+      {
+        "network": "Email (alt)",
+        "username": "gonglc@umd.edu",
+        "url": "mailto:gonglc@umd.edu"
+      }
     ]
   },
   "education": [
@@ -26,9 +34,13 @@
       "endDate": "2024-05",
       "gpa": "3.90/4.00",
       "courses": [
-        "Big Data Analytics","Statistics for Data Science",
-        "Database and Information Systems","Intro to Software Development",
-        "Principles of Deep Learning","Artificial Intelligence","Ethical Algorithm Design"
+        "Big Data Analytics",
+        "Statistics for Data Science",
+        "Database and Information Systems",
+        "Intro to Software Development",
+        "Principles of Deep Learning",
+        "Artificial Intelligence",
+        "Ethical Algorithm Design"
       ]
     },
     {
@@ -40,15 +52,27 @@
       "endDate": "2022-05",
       "gpa": "3.81/4.00",
       "courses": [
-        "Probability and Statistics","ODE","Intro to Math Modeling",
-        "Data Structures","Machine Learning","Information Visualization","NLP","Algorithms",
-        "Decision Making Under Uncertainty","Human-Centered Data Science"
+        "Probability and Statistics",
+        "ODE",
+        "Intro to Math Modeling",
+        "Data Structures",
+        "Machine Learning",
+        "Information Visualization",
+        "NLP",
+        "Algorithms",
+        "Decision Making Under Uncertainty",
+        "Human-Centered Data Science"
       ],
-      "honors": ["Magna Cum Laude (2022)","Dean’s List (2019–2022)"]
+      "honors": ["Magna Cum Laude (2022)", "Dean’s List (2019–2022)"]
     }
   ],
   "awards": [
-    { "title": "Dean’s Fellowship", "date": "2026", "awarder": "University of Maryland", "summary": "" }
+    {
+      "title": "Dean’s Fellowship",
+      "date": "2026",
+      "awarder": "University of Maryland",
+      "summary": ""
+    }
   ],
   "work": [
     {
@@ -73,7 +97,7 @@
         "Tracked US campaign ads and Russian media topics; scraped 2M+ VK posts and built TF-IDF/BERT features",
         "Raised political-content share from 10%→50% via logistic regression selection",
         "Designed GPT-based annotation/translation (≈90% agreement with humans)",
-        "BERTweet finetune on symbolic rhetoric (e.g., 'us vs them')"
+        "BERTweet finetune on symbolic rhetoric (e.g., \"us vs them\")"
       ]
     },
     {
@@ -98,10 +122,23 @@
     }
   ],
   "projects": [
-    { "name": "Machine QA on Chinese Judicial RC", "url": "", "highlights": ["Span-extraction MRC system"] },
-    { "name": "Colorize Images with Deep Learning", "highlights": ["Compared ResNet, GAN, VAE"] },
-    { "name": "Customer Lifecycle (NYU × HSBC)", "highlights": ["Segmentation, churn prediction, targeted recs"] },
-    { "name": "Max Car Speed in Rain", "highlights": ["Visibility modeling + safe-speed estimation"] }
+    {
+      "name": "Machine QA on Chinese Judicial RC",
+      "url": "",
+      "highlights": ["Span-extraction MRC system"]
+    },
+    {
+      "name": "Colorize Images with Deep Learning",
+      "highlights": ["Compared ResNet, GAN, VAE"]
+    },
+    {
+      "name": "Customer Lifecycle (NYU × HSBC)",
+      "highlights": ["Segmentation, churn prediction, targeted recs"]
+    },
+    {
+      "name": "Max Car Speed in Rain",
+      "highlights": ["Visibility modeling + safe-speed estimation"]
+    }
   ],
   "volunteer": [
     {
@@ -113,8 +150,38 @@
     }
   ],
   "skills": [
-    { "name": "Programming", "keywords": ["Python","R","SQL","Java"] },
-    { "name": "Libraries", "keywords": ["NumPy","Pandas","SciPy","scikit-learn","PySpark","Matplotlib","Seaborn","PyTorch","TensorFlow"] },
-    { "name": "Tools", "keywords": ["AWS (RDS/SageMaker/S3/EMR)","MySQL","MongoDB","Tableau","Power BI","Git","Linux","Stata","MATLAB","ETL"] }
+    {
+      "name": "Programming",
+      "keywords": ["Python", "R", "SQL", "Java"]
+    },
+    {
+      "name": "Libraries",
+      "keywords": [
+        "NumPy",
+        "Pandas",
+        "SciPy",
+        "scikit-learn",
+        "PySpark",
+        "Matplotlib",
+        "Seaborn",
+        "PyTorch",
+        "TensorFlow"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "AWS (RDS/SageMaker/S3/EMR)",
+        "MySQL",
+        "MongoDB",
+        "Tableau",
+        "Power BI",
+        "Git",
+        "Linux",
+        "Stata",
+        "MATLAB",
+        "ETL"
+      ]
+    }
   ]
 }
