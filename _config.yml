@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ph.D. Student, Information Studies, University of Maryland College Park.
 footer_text: >
-  © 2025 Krystal Gong. All rights reserved.
+ 
 keywords: Liancheng Gong, Krystal Gong, academic-website, portfolio-website, Krystal, Liancheng, Gong, UMD, Maryland, College Park, LLM, PhD, AI # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🐱 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -143,13 +143,13 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
