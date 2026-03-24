@@ -1,0 +1,7 @@
+---
+layout: news
+title: "Paper accepted at ICWSM 2026"
+date: 2026-03-16
+---
+
+My first paper was accepted to ICWSM! <a href="./" target="_blank" rel="noopener noreferrer">“The Limits of De-politicizing—and Also of Annotation: A Case Study in Russian Media Outlets’ Social Media Posts, 2016–2024.”</a> See you in LA!
