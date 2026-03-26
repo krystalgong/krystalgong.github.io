@@ -8,11 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>Hornbake Library</p>
-    <p>4130 Campus Dr</p>
-    <p>College Park, MD 20740</p>
-
+  more_info: 
 selected_papers: false
 social: true
 
@@ -25,7 +21,7 @@ latest_posts:
   enabled: false
 ---
 
-Hi! I’m **Liancheng (Krystal) Gong**, a first-year Ph.D. student in Information Studies at the University of Maryland, College Park, where I am advised by Professor <a href="https://juliamendelsohn.github.io/" target="_blank">Julia Mendelsohn</a> and a member of the <a href="https://cats-group.github.io/" target="_blank">CATS Lab (Computational Analysis of Text and Society)</a>. Prior to starting my Ph.D., I worked as a research assistant with Professor <a href="https://web.sas.upenn.edu/danhop/" target="_blank">Daniel Hopkins</a> at the University of Pennsylvania and as a part-time research assistant with Professor <a href="https://zharry29.github.io/" target="_blank">Li Zhang</a> at Drexel University. I received my B.S. in Data Science from NYU Shanghai in 2022 and my M.S.E. in Data Science from the University of Pennsylvania.
+Hi! I’m **Krystal**, a first-year Ph.D. student in Information Studies at the University of Maryland, College Park, where I am advised by Professor <a href="https://juliamendelsohn.github.io/" target="_blank">Julia Mendelsohn</a> and a member of the <a href="https://cats-group.github.io/" target="_blank">CATS Lab (Computational Analysis of Text and Society)</a>. Prior to starting my Ph.D., I worked as a research assistant with Professor <a href="https://web.sas.upenn.edu/danhop/" target="_blank">Daniel Hopkins</a> at the University of Pennsylvania and as a part-time research assistant with Professor <a href="https://zharry29.github.io/" target="_blank">Li Zhang</a> at Drexel University. I received my B.S. in Data Science from NYU Shanghai and M.S.E. in Data Science from the University of Pennsylvania.
 
 My research focuses on trustworthy large language models and computational social science. I study large-scale social media data to understand how linguistic and structural features shape communication, persuasion, and information flow in digital environments, including political communication and media narratives. I am also interested in the interpretability of language models, with the goal of developing methods that make their outputs more reliable, transparent, and verifiable.
 
