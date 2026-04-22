@@ -43,6 +43,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-16-icwsm.html";
+            },},{id: "news-paper-accepted-at-acl-2026-findings",
+          title: 'Paper accepted at ACL 2026 Findings',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-04-06-acl.html";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
