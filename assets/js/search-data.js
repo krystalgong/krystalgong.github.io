@@ -53,6 +53,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-04-14-ic2s2.html";
+            },},{id: "news-new-preprint-on-persuasion-analysis",
+          title: 'New preprint on persuasion analysis',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-06-12-persuasion-index.html";
+            },},{id: "news-new-preprint-on-emergent-misalignment-and-realignment",
+          title: 'New preprint on emergent misalignment and realignment',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-07-10-emergent-mirage.html";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
