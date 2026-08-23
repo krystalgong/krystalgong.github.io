@@ -53,16 +53,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-04-14-ic2s2.html";
-            },},{id: "news-paper-accepted-at-emnlp-2026-main-conference",
-          title: 'Paper accepted at EMNLP 2026 Main Conference',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2026-08-21-persuasion-index.html";
             },},{id: "news-new-preprint-on-emergent-misalignment-and-realignment",
           title: 'New preprint on emergent misalignment and realignment',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-07-10-emergent-mirage.html";
+            },},{id: "news-paper-accepted-at-emnlp-2026-main-conference",
+          title: 'Paper accepted at EMNLP 2026 Main Conference',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-08-21-persuasion-index.html";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
