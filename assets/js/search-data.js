@@ -57,7 +57,7 @@ ninja.data = [{
           title: 'Paper accepted at EMNLP 2026 Main Conference',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2026-06-12-persuasion-index.html";
+              window.location.href = "/news/2026-08-21-persuasion-index.html";
             },},{id: "news-new-preprint-on-emergent-misalignment-and-realignment",
           title: 'New preprint on emergent misalignment and realignment',
           description: "",
