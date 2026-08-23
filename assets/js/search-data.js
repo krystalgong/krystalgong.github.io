@@ -53,8 +53,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-04-14-ic2s2.html";
-            },},{id: "news-new-preprint-on-persuasion-analysis",
-          title: 'New preprint on persuasion analysis',
+            },},{id: "news-paper-accepted-at-emnlp-2026-main-conference",
+          title: 'Paper accepted at EMNLP 2026 Main Conference',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-06-12-persuasion-index.html";
