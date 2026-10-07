@@ -63,6 +63,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-08-21-persuasion-index.html";
+            },},{id: "news-persuasion-index-presented-at-tada-2026",
+          title: 'Persuasion Index presented at TADA 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-10-06-tada-persuasion-index.html";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
