@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: 
+  more_info:
 selected_papers: false
 social: true
 
@@ -27,9 +27,9 @@ My research focuses on trustworthy large language models and computational socia
 
 **Here are some directions that I am working on or am excited about:**
 
-- **Persuasion & Communication Modeling.** I develop computational frameworks (e.g., persuasion indices) to quantify how linguistic and structural features shape persuasive effects in large-scale social media data.  
+- **Persuasion & Communication Modeling.** I develop computational frameworks (e.g., persuasion indices) to quantify how linguistic and structural features shape persuasive effects in large-scale social media data.
 
-- **LLM Mechanisms & Interpretability.** I study the internal mechanisms of large language models, using techniques such as probing and activation analysis to understand how models generate persuasive or strategic language, and how to make these processes more transparent and reliable.  
+- **LLM Mechanisms & Interpretability.** I study the internal mechanisms of large language models, using techniques such as probing and activation analysis to understand how models generate persuasive or strategic language, and how to make these processes more transparent and reliable.
 
 - **Structured Analysis of Social Text.** I build methods to transform unstructured text into structured, analyzable representations, enabling large-scale and reproducible studies of online discourse, information flow, and human–AI interaction.
 

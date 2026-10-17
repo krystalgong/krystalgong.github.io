@@ -1,8 +1,6 @@
 ---
 ---
-
 <div class="row">
-
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="col">
     <!-- Title -->
@@ -48,15 +46,18 @@
 
         {%- if author_is_self -%}
           <em>
-            {{- author.first }} {{ author_last_html -}}
+            {{- author.first }}
+            {{ author_last_html -}}
           </em>
         {%- else -%}
           {%- if coauthor_url -%}
             <a href="{{ coauthor_url }}">
-              {{- author.first }} {{ author_last_html -}}
+              {{- author.first }}
+              {{ author_last_html -}}
             </a>
           {%- else -%}
-            {{- author.first }} {{ author_last_html -}}
+            {{- author.first }}
+            {{ author_last_html -}}
           {% endif %}
         {%- endif -%}
       {% endfor %}
@@ -114,5 +115,4 @@
       {% endif %}
     </div>
   </div>
-
 </div>

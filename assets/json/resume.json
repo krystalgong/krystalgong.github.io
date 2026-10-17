@@ -156,32 +156,11 @@
     },
     {
       "name": "Libraries",
-      "keywords": [
-        "NumPy",
-        "Pandas",
-        "SciPy",
-        "scikit-learn",
-        "PySpark",
-        "Matplotlib",
-        "Seaborn",
-        "PyTorch",
-        "TensorFlow"
-      ]
+      "keywords": ["NumPy", "Pandas", "SciPy", "scikit-learn", "PySpark", "Matplotlib", "Seaborn", "PyTorch", "TensorFlow"]
     },
     {
       "name": "Tools",
-      "keywords": [
-        "AWS (RDS/SageMaker/S3/EMR)",
-        "MySQL",
-        "MongoDB",
-        "Tableau",
-        "Power BI",
-        "Git",
-        "Linux",
-        "Stata",
-        "MATLAB",
-        "ETL"
-      ]
+      "keywords": ["AWS (RDS/SageMaker/S3/EMR)", "MySQL", "MongoDB", "Tableau", "Power BI", "Git", "Linux", "Stata", "MATLAB", "ETL"]
     }
   ]
 }
